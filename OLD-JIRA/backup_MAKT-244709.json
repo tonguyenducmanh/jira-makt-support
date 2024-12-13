@@ -1,0 +1,145 @@
+-- script query
+select sv.refid, svd.detail_parent_id as parent_sa_voucher_detail_id_wrong, svd2.sa_order_ref_detail_id as parent_order_detail_id, svd2.ref_detail_id as parent_sa_voucher_detail_id, svd.ref_detail_id as detail_id from sme.sa_voucher_detail svd
+join sme.sa_voucher_detail svd2
+
+on svd.detail_parent_id = svd2.sa_order_ref_detail_id
+left join sme.sa_voucher sv
+on sv.refid = svd.refid
+limit 20;
+
+-- script update 
+update sme.sa_voucher_detail svd
+set detail_parent_id = svd2.ref_detail_id
+from sme.sa_voucher_detail svd2
+where svd.detail_parent_id = svd2.sa_order_ref_detail_id
+and svd.ref_detail_id in (
+    '3d03e5ac-a3ae-4b22-9ae7-21623f7baddd',
+    'd708b558-667a-4361-bf95-30c3e5a998e8',
+    '440e9732-27d3-42ea-8f23-c519759b7200',
+    '1f47f49a-5481-406c-8408-e5a7156de180',
+    '16bfe316-dd70-4ba9-bda5-060e34f5cfa1',
+    'c3f0d2e5-d2ad-449f-b915-6df90b547aad',
+    '9f5ed20b-32ef-4b64-b41e-daf11ad79eff',
+    '1840f1ab-64b6-4752-8630-5d1db38e818c',
+    '19fcbb31-d72e-4c27-835e-574b8ef62a4b',
+    '9db6c225-5d6c-4e89-978b-bbe1ed4f9706',
+    'fa57e62c-78a2-4cd8-9da8-ad4b6fb21616',
+    '68dddd2c-c4e9-4848-b323-ed45e04102a7',
+    '5d448187-2a71-4fc2-84f1-3ef440a5a2dc',
+    'e981e9ee-634f-47cf-b0cc-1f2a9742e16d');
+
+-- backup data wrong
+[
+    {
+        "refid": "1bce9353-b566-47cc-9269-bfc787b6dabe",
+        "refno_finance": "BH08278",
+        "parent_sa_voucher_detail_id_wrong": "d300c22d-baca-46ab-a3cd-8ef3f5ebe083",
+        "parent_order_detail_id": "d300c22d-baca-46ab-a3cd-8ef3f5ebe083",
+        "parent_sa_voucher_detail_id": "5f344b8c-1218-4c8d-a5c9-8565238863fc",
+        "detail_id": "3d03e5ac-a3ae-4b22-9ae7-21623f7baddd"
+    },
+    {
+        "refid": "10e9b365-9a37-406d-945d-ae15b36b0d8d",
+        "refno_finance": "BH08257",
+        "parent_sa_voucher_detail_id_wrong": "2b78a78a-c078-40f8-9cbb-770f5b9e022c",
+        "parent_order_detail_id": "2b78a78a-c078-40f8-9cbb-770f5b9e022c",
+        "parent_sa_voucher_detail_id": "4a613478-006d-4ed7-82ff-27b9067c6948",
+        "detail_id": "d708b558-667a-4361-bf95-30c3e5a998e8"
+    },
+    {
+        "refid": "9680539f-2ea7-4807-b0c9-bf1adaf6992f",
+        "refno_finance": "BH08224",
+        "parent_sa_voucher_detail_id_wrong": "79475c7e-e60a-47d5-8609-1f859911b222",
+        "parent_order_detail_id": "79475c7e-e60a-47d5-8609-1f859911b222",
+        "parent_sa_voucher_detail_id": "1d5f39fe-8f68-40ea-8e4c-dfd60546a0fb",
+        "detail_id": "440e9732-27d3-42ea-8f23-c519759b7200"
+    },
+    {
+        "refid": "5a8d3385-58ac-4239-b69c-330bcf9722c8",
+        "refno_finance": "BH08228",
+        "parent_sa_voucher_detail_id_wrong": "644e223e-30ac-45ce-936e-b9d2b9d28938",
+        "parent_order_detail_id": "644e223e-30ac-45ce-936e-b9d2b9d28938",
+        "parent_sa_voucher_detail_id": "2916872e-a293-49cc-9515-e6ab29c2d23c",
+        "detail_id": "1f47f49a-5481-406c-8408-e5a7156de180"
+    },
+    {
+        "refid": "0332fcae-3ab2-4c79-98e0-aaa1a5f8ad3c",
+        "refno_finance": "BH08218",
+        "parent_sa_voucher_detail_id_wrong": "a09cbf27-e27e-43ac-93be-9e33d1bd58b5",
+        "parent_order_detail_id": "a09cbf27-e27e-43ac-93be-9e33d1bd58b5",
+        "parent_sa_voucher_detail_id": "de465b3f-ea64-4e9d-96dd-ddcd21c5118c",
+        "detail_id": "16bfe316-dd70-4ba9-bda5-060e34f5cfa1"
+    },
+    {
+        "refid": "39c641ac-d830-412e-8fb1-b4b620457eef",
+        "refno_finance": "BH08227",
+        "parent_sa_voucher_detail_id_wrong": "e0fd70b3-4405-410e-a3b8-d61e7b835a7d",
+        "parent_order_detail_id": "e0fd70b3-4405-410e-a3b8-d61e7b835a7d",
+        "parent_sa_voucher_detail_id": "53423c87-334e-46ed-8cc0-354ca5893c86",
+        "detail_id": "c3f0d2e5-d2ad-449f-b915-6df90b547aad"
+    },
+    {
+        "refid": "2e5d2333-54fe-4203-bb78-269c048e4068",
+        "refno_finance": "BH08225",
+        "parent_sa_voucher_detail_id_wrong": "ecdaac21-0ff6-46a4-b297-8f71877d9f9a",
+        "parent_order_detail_id": "ecdaac21-0ff6-46a4-b297-8f71877d9f9a",
+        "parent_sa_voucher_detail_id": "c79eb270-511c-4a29-8cea-e7c98afb543d",
+        "detail_id": "9f5ed20b-32ef-4b64-b41e-daf11ad79eff"
+    },
+    {
+        "refid": "9680539f-2ea7-4807-b0c9-bf1adaf6992f",
+        "refno_finance": "BH08224",
+        "parent_sa_voucher_detail_id_wrong": "79475c7e-e60a-47d5-8609-1f859911b222",
+        "parent_order_detail_id": "79475c7e-e60a-47d5-8609-1f859911b222",
+        "parent_sa_voucher_detail_id": "1d5f39fe-8f68-40ea-8e4c-dfd60546a0fb",
+        "detail_id": "1840f1ab-64b6-4752-8630-5d1db38e818c"
+    },
+    {
+        "refid": "0332fcae-3ab2-4c79-98e0-aaa1a5f8ad3c",
+        "refno_finance": "BH08218",
+        "parent_sa_voucher_detail_id_wrong": "a09cbf27-e27e-43ac-93be-9e33d1bd58b5",
+        "parent_order_detail_id": "a09cbf27-e27e-43ac-93be-9e33d1bd58b5",
+        "parent_sa_voucher_detail_id": "de465b3f-ea64-4e9d-96dd-ddcd21c5118c",
+        "detail_id": "19fcbb31-d72e-4c27-835e-574b8ef62a4b"
+    },
+    {
+        "refid": "2e5d2333-54fe-4203-bb78-269c048e4068",
+        "refno_finance": "BH08225",
+        "parent_sa_voucher_detail_id_wrong": "ecdaac21-0ff6-46a4-b297-8f71877d9f9a",
+        "parent_order_detail_id": "ecdaac21-0ff6-46a4-b297-8f71877d9f9a",
+        "parent_sa_voucher_detail_id": "c79eb270-511c-4a29-8cea-e7c98afb543d",
+        "detail_id": "9db6c225-5d6c-4e89-978b-bbe1ed4f9706"
+    },
+    {
+        "refid": "5a8d3385-58ac-4239-b69c-330bcf9722c8",
+        "refno_finance": "BH08228",
+        "parent_sa_voucher_detail_id_wrong": "644e223e-30ac-45ce-936e-b9d2b9d28938",
+        "parent_order_detail_id": "644e223e-30ac-45ce-936e-b9d2b9d28938",
+        "parent_sa_voucher_detail_id": "2916872e-a293-49cc-9515-e6ab29c2d23c",
+        "detail_id": "fa57e62c-78a2-4cd8-9da8-ad4b6fb21616"
+    },
+    {
+        "refid": "1bce9353-b566-47cc-9269-bfc787b6dabe",
+        "refno_finance": "BH08278",
+        "parent_sa_voucher_detail_id_wrong": "d300c22d-baca-46ab-a3cd-8ef3f5ebe083",
+        "parent_order_detail_id": "d300c22d-baca-46ab-a3cd-8ef3f5ebe083",
+        "parent_sa_voucher_detail_id": "5f344b8c-1218-4c8d-a5c9-8565238863fc",
+        "detail_id": "68dddd2c-c4e9-4848-b323-ed45e04102a7"
+    },
+    {
+        "refid": "10e9b365-9a37-406d-945d-ae15b36b0d8d",
+        "refno_finance": "BH08257",
+        "parent_sa_voucher_detail_id_wrong": "2b78a78a-c078-40f8-9cbb-770f5b9e022c",
+        "parent_order_detail_id": "2b78a78a-c078-40f8-9cbb-770f5b9e022c",
+        "parent_sa_voucher_detail_id": "4a613478-006d-4ed7-82ff-27b9067c6948",
+        "detail_id": "5d448187-2a71-4fc2-84f1-3ef440a5a2dc"
+    },
+    {
+        "refid": "39c641ac-d830-412e-8fb1-b4b620457eef",
+        "refno_finance": "BH08227",
+        "parent_sa_voucher_detail_id_wrong": "e0fd70b3-4405-410e-a3b8-d61e7b835a7d",
+        "parent_order_detail_id": "e0fd70b3-4405-410e-a3b8-d61e7b835a7d",
+        "parent_sa_voucher_detail_id": "53423c87-334e-46ed-8cc0-354ca5893c86",
+        "detail_id": "e981e9ee-634f-47cf-b0cc-1f2a9742e16d"
+    }
+]

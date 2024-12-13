@@ -1,0 +1,2 @@
+
+select refid, refno, created_date, modified_date, other_term, ship_date,revenue_status, 'AAHTAXY7' as tenant_code, '0346ba8e-e606-4f92-8d5e-3de4d460ebe5' as database_id from sme.sa_order where modified_date >= '2024-09-30 00:00:00' order by created_date desc limit 1000

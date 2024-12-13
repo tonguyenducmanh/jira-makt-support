@@ -1,0 +1,799 @@
+/* 1 */
+{
+    "_id" : "97c0f140413b0d4bf3470aebf99e3f3b",
+    "AuditingLogID" : NUUID("2f205d34-541b-46f3-b3cc-4de95608a733"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-04-02T13:44:36.584+07:00"),
+    "LogDate" : ISODate("2024-04-02T00:00:00.000+07:00"),
+    "SubSystemName" : "Khách hàng",
+    "TableName" : "account",
+    "Action" : 2,
+    "Description" : "Khách hàng đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "KHDN0175",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 2 */
+{
+    "_id" : "39927be7fc81553f23f0567611057615",
+    "AuditingLogID" : NUUID("b98c25f1-cb45-43ad-a967-97739573278a"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 23,
+    "FullName" : "Trịnh Quốc Trường",
+    "LogTime" : ISODate("2024-03-15T11:30:56.978+07:00"),
+    "LogDate" : ISODate("2024-03-15T00:00:00.000+07:00"),
+    "SubSystemName" : "Cơ hội",
+    "TableName" : "opportunity",
+    "Action" : 1,
+    "Description" : "Cơ hội đã được tạo<br/><span class=\"color-grey\">bởi </span>Trịnh Quốc Trường <span class=\"color-grey\">15/03/2024</span>\r\n",
+    "EntityID" : "702",
+    "ParentEntityID" : "",
+    "EntityInfo" : "CH0000690",
+    "FullNameAlias" : "Trịnh Quốc Trường (NVHN0005)",
+    "OrganizationUnitText" : "Phòng kinh doanh Hà Nội",
+    "OrganizationUnitID" : 7,
+    "IsSytem" : false,
+    "DeviceType" : 1,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 3 */
+{
+    "_id" : "53570ad6b3814fe91c44f3743844d9e8",
+    "AuditingLogID" : NUUID("168adf90-31ec-474b-88c9-04959a6d9ae6"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-03-13T09:42:09.230+07:00"),
+    "LogDate" : ISODate("2024-03-13T00:00:00.000+07:00"),
+    "SubSystemName" : "Khách hàng",
+    "TableName" : "account",
+    "Action" : 2,
+    "Description" : "Khách hàng đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "KHDN0175",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 4 */
+{
+    "_id" : "a3af77666982f3447dc9f20c1acafc0f",
+    "AuditingLogID" : NUUID("7a256edf-edef-4b5e-9037-5150d1c94623"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2023-12-30T11:48:32.895+07:00"),
+    "LogDate" : ISODate("2023-12-30T00:00:00.000+07:00"),
+    "SubSystemName" : "Đơn hàng",
+    "TableName" : "sale_order",
+    "Action" : 2,
+    "Description" : "Tình trạng đã được cập nhật từ <b>Chưa thực hiện</b> thành <b>Đang thực hiện</b><br/> <span class=\"color-grey\">bởi luồng đồng bộ với AMIS Kế toán </span>",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "DHSG0000254",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 5 */
+{
+    "_id" : "ecd10a9baeea54c8e3eccdd4efbb70a1",
+    "AuditingLogID" : NUUID("0907056a-9fb8-4f67-9eaa-7c450971ce86"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2023-12-30T11:48:32.895+07:00"),
+    "LogDate" : ISODate("2023-12-30T00:00:00.000+07:00"),
+    "SubSystemName" : "Đơn hàng",
+    "TableName" : "sale_order",
+    "Action" : 2,
+    "Description" : "Ngày giao hàng đã được cập nhật từ <b>05/12/2023</b> thành <b>30/12/2023</b><br/> <span class=\"color-grey\">bởi luồng đồng bộ với AMIS Kế toán </span>",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "DHSG0000254",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 6 */
+{
+    "_id" : "c1d68ed336a2210ed0c95be83ca113d1",
+    "AuditingLogID" : NUUID("456e4e1a-dea4-4f6a-b79b-1a8667ce1639"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2023-12-30T11:48:32.879+07:00"),
+    "LogDate" : ISODate("2023-12-30T00:00:00.000+07:00"),
+    "SubSystemName" : "Đơn hàng",
+    "TableName" : "sale_order",
+    "Action" : 2,
+    "Description" : "Tình trạng giao hàng đã được cập nhật từ <b>Chưa giao hàng</b> thành <b>Đã giao hàng</b><br/> <span class=\"color-grey\">bởi luồng đồng bộ với AMIS Kế toán </span>",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "DHSG0000254",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 7 */
+{
+    "_id" : "c061d528db27997e6d649fc624cad18e",
+    "AuditingLogID" : NUUID("d0086473-41f5-4262-b70a-1091594cc918"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2023-12-30T11:46:11.377+07:00"),
+    "LogDate" : ISODate("2023-12-30T00:00:00.000+07:00"),
+    "SubSystemName" : "Đơn hàng",
+    "TableName" : "sale_order",
+    "Action" : 2,
+    "Description" : "Tình trạng ghi doanh số đã được cập nhật từ <b>Đề nghị ghi</b> thành <b>Đã ghi</b><br/> <span class=\"color-grey\">bởi luồng đồng bộ với AMIS Kế toán </span>",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "DHSG0000254",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 8 */
+{
+    "_id" : "872971637c5306d940c59300a174238b",
+    "AuditingLogID" : NUUID("caf073d2-91f6-4c3e-9d33-e8dc26425603"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 19,
+    "FullName" : "Võ Văn Thiện",
+    "LogTime" : ISODate("2023-12-30T11:45:28.116+07:00"),
+    "LogDate" : ISODate("2023-12-30T00:00:00.000+07:00"),
+    "SubSystemName" : "Đơn hàng",
+    "TableName" : "sale_order",
+    "Action" : 2,
+    "Description" : "Ngày đặt hàng đã được cập nhật từ <b>05/12/2023</b> thành <b>30/12/2023</b><br/>\r\nCTKM tháng đã được cập nhật từ <b>Giá trị trống</b> thành <b>CTMK T12 giảm giá đầu thùng: HCK150,HDK14,HDL750, bơm tăng áp, MH Kamashi</b><br/>\r\nHạn thanh toán đã được cập nhật từ <b>05/12/2023</b> thành <b>30/12/2023</b><br/>\r\nTình trạng ghi doanh số đã được cập nhật từ <b>Từ chối ghi</b> thành <b>Đề nghị ghi</b><br/>\r\nNgày ghi sổ đã được cập nhật từ <b>05/12/2023</b> thành <b>30/12/2023</b><br/>\r\nCòn phải thu NT đã được cập nhật từ <b>0,00</b> thành <b>35.280.000,00</b><br/>\r\nCòn phải thu đã được cập nhật từ <b>0,00</b> thành <b>35.280.000,00</b><br/>\r\nChi phí thực hiện ĐH đã được cập nhật từ <b>0,00</b> thành <b>Giá trị trống</b><br/>\r\n<span class=\"color-grey\">bởi</span> Võ Văn Thiện <span class=\"color-grey\">30/12/2023</span>\r\n",
+    "EntityID" : "702",
+    "ParentEntityID" : "",
+    "EntityInfo" : "DHSG0000254",
+    "FullNameAlias" : "Võ Văn Thiện (NVSG0004)",
+    "OrganizationUnitText" : "Phòng kinh doanh Sài Gòn",
+    "OrganizationUnitID" : 8,
+    "IsSytem" : false,
+    "DeviceType" : 1,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 9 */
+{
+    "_id" : "271bb9869e11770418c00f7b38f54f90",
+    "AuditingLogID" : NUUID("89caf8d2-f0ac-40a2-addc-a505ba76aa5c"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2023-12-30T11:44:34.594+07:00"),
+    "LogDate" : ISODate("2023-12-30T00:00:00.000+07:00"),
+    "SubSystemName" : "Đơn hàng",
+    "TableName" : "sale_order",
+    "Action" : 2,
+    "Description" : "Tình trạng ghi doanh số đã được cập nhật từ <b>Đề nghị ghi</b> thành <b>Từ chối ghi</b><br/> <span class=\"color-grey\">bởi luồng đồng bộ với AMIS Kế toán </span>",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "DHSG0000254",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 10 */
+{
+    "_id" : "e2eccd5809721daa4b45ecc88a99d714",
+    "AuditingLogID" : NUUID("f06357a3-495b-4474-9bd5-ed891f7640a8"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2023-12-30T11:44:25.248+07:00"),
+    "LogDate" : ISODate("2023-12-30T00:00:00.000+07:00"),
+    "SubSystemName" : "Đơn hàng",
+    "TableName" : "sale_order",
+    "Action" : 2,
+    "Description" : "Tình trạng ghi doanh số đã được cập nhật từ <b>Đã ghi</b> thành <b>Đề nghị ghi</b><br/> <span class=\"color-grey\">bởi luồng đồng bộ với AMIS Kế toán </span>",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "DHSG0000254",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 11 */
+{
+    "_id" : "6b06b9c6ca5f0a26eb21bd7628ecfca0",
+    "AuditingLogID" : NUUID("3f3a88d0-3042-4ab6-b824-942259d12892"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2023-12-30T11:44:13.982+07:00"),
+    "LogDate" : ISODate("2023-12-30T00:00:00.000+07:00"),
+    "SubSystemName" : "Đơn hàng",
+    "TableName" : "sale_order",
+    "Action" : 2,
+    "Description" : "Tình trạng đã được cập nhật từ <b>Đang thực hiện</b> thành <b>Chưa thực hiện</b><br/> <span class=\"color-grey\">bởi luồng đồng bộ với AMIS Kế toán </span>",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "DHSG0000254",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 12 */
+{
+    "_id" : "9c009a26350a7e8208cddf01c9518f5f",
+    "AuditingLogID" : NUUID("40ee3a94-5d91-40f3-a6d8-badadedd656e"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2023-12-30T11:44:13.966+07:00"),
+    "LogDate" : ISODate("2023-12-30T00:00:00.000+07:00"),
+    "SubSystemName" : "Đơn hàng",
+    "TableName" : "sale_order",
+    "Action" : 2,
+    "Description" : "Tình trạng giao hàng đã được cập nhật từ <b>Đã giao hàng</b> thành <b>Chưa giao hàng</b><br/> <span class=\"color-grey\">bởi luồng đồng bộ với AMIS Kế toán </span>",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "DHSG0000254",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 13 */
+{
+    "_id" : "f915c571fd3e4378b08a833987568019",
+    "AuditingLogID" : NUUID("003c2aa8-ded3-4549-af61-c992da9cf0b1"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2023-12-05T10:24:00.935+07:00"),
+    "LogDate" : ISODate("2023-12-05T00:00:00.000+07:00"),
+    "SubSystemName" : "Đơn hàng",
+    "TableName" : "sale_order",
+    "Action" : 2,
+    "Description" : "Tình trạng đã được cập nhật từ <b>Chưa thực hiện</b> thành <b>Đang thực hiện</b><br/> <span class=\"color-grey\">bởi luồng đồng bộ với AMIS Kế toán </span>",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "DHSG0000254",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 14 */
+{
+    "_id" : "5565fe0144880f296661481a7593a2f0",
+    "AuditingLogID" : NUUID("b1818e86-1b0e-40de-9985-a8827afd8fc8"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2023-12-05T10:24:00.888+07:00"),
+    "LogDate" : ISODate("2023-12-05T00:00:00.000+07:00"),
+    "SubSystemName" : "Đơn hàng",
+    "TableName" : "sale_order",
+    "Action" : 2,
+    "Description" : "Ngày giao hàng đã được cập nhật từ <b>Giá trị trống</b> thành <b>05/12/2023</b><br/> <span class=\"color-grey\">bởi luồng đồng bộ với AMIS Kế toán </span>",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "DHSG0000254",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 15 */
+{
+    "_id" : "0304548f32b7a24603d682df888238c7",
+    "AuditingLogID" : NUUID("14556e55-20ac-4fca-9992-498b61dcb194"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2023-12-05T10:24:00.841+07:00"),
+    "LogDate" : ISODate("2023-12-05T00:00:00.000+07:00"),
+    "SubSystemName" : "Đơn hàng",
+    "TableName" : "sale_order",
+    "Action" : 2,
+    "Description" : "Tình trạng giao hàng đã được cập nhật từ <b>Chưa giao hàng</b> thành <b>Đã giao hàng</b><br/> <span class=\"color-grey\">bởi luồng đồng bộ với AMIS Kế toán </span>",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "DHSG0000254",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 16 */
+{
+    "_id" : "6851729c1f57e633d5dc0bb001e80f05",
+    "AuditingLogID" : NUUID("58364045-fd2c-4acb-847a-3f0017673687"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2023-12-05T09:47:52.591+07:00"),
+    "LogDate" : ISODate("2023-12-05T00:00:00.000+07:00"),
+    "SubSystemName" : "Đơn hàng",
+    "TableName" : "sale_order",
+    "Action" : 2,
+    "Description" : "Tình trạng ghi doanh số đã được cập nhật từ <b>Đề nghị ghi</b> thành <b>Đã ghi</b><br/> <span class=\"color-grey\">bởi luồng đồng bộ với AMIS Kế toán </span>",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "DHSG0000254",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 17 */
+{
+    "_id" : "6201699e502a609d42c60005e1c57752",
+    "AuditingLogID" : NUUID("e4c4d366-4db6-4056-a0b0-b25aa5311b70"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 19,
+    "FullName" : "Võ Văn Thiện",
+    "LogTime" : ISODate("2023-12-05T09:45:52.582+07:00"),
+    "LogDate" : ISODate("2023-12-05T00:00:00.000+07:00"),
+    "SubSystemName" : "Đơn hàng",
+    "TableName" : "sale_order",
+    "Action" : 2,
+    "Description" : "CTKM tháng đã được cập nhật từ <b>Giá trị trống</b> thành <b>CTMK T12 giảm giá đầu thùng: HCK150,HDK14,HDL750, bơm tăng áp, MH Kamashi</b><br/>\r\nTình trạng ghi doanh số đã được cập nhật từ <b>Từ chối ghi</b> thành <b>Đề nghị ghi</b><br/>\r\nThực thu NT đã được cập nhật từ <b>0,00</b> thành <b>Giá trị trống</b><br/>\r\nThực thu đã được cập nhật từ <b>0,00</b> thành <b>Giá trị trống</b><br/>\r\nChi phí thực hiện ĐH đã được cập nhật từ <b>0,00</b> thành <b>Giá trị trống</b><br/>\r\n<span class=\"color-grey\">bởi</span> Võ Văn Thiện <span class=\"color-grey\">05/12/2023</span>\r\n",
+    "EntityID" : "702",
+    "ParentEntityID" : "",
+    "EntityInfo" : "DHSG0000254",
+    "FullNameAlias" : "Võ Văn Thiện (NVSG0004)",
+    "OrganizationUnitText" : "Phòng kinh doanh Sài Gòn",
+    "OrganizationUnitID" : 8,
+    "IsSytem" : false,
+    "DeviceType" : 1,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 18 */
+{
+    "_id" : "ebb4e9b75c0f30e1106b85834d9184e2",
+    "AuditingLogID" : NUUID("b6951842-61d5-4db5-9905-ca137c654c79"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2023-12-05T09:44:35.717+07:00"),
+    "LogDate" : ISODate("2023-12-05T00:00:00.000+07:00"),
+    "SubSystemName" : "Đơn hàng",
+    "TableName" : "sale_order",
+    "Action" : 2,
+    "Description" : "Tình trạng ghi doanh số đã được cập nhật từ <b>Đề nghị ghi</b> thành <b>Từ chối ghi</b><br/> <span class=\"color-grey\">bởi luồng đồng bộ với AMIS Kế toán </span>",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "DHSG0000254",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 19 */
+{
+    "_id" : "07d87f23e351b74e6a1a35e4fdb2f04e",
+    "AuditingLogID" : NUUID("061adbd3-0608-4495-9aed-1e91491e441f"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 19,
+    "FullName" : "Võ Văn Thiện",
+    "LogTime" : ISODate("2023-12-05T09:32:51.436+07:00"),
+    "LogDate" : ISODate("2023-12-05T00:00:00.000+07:00"),
+    "SubSystemName" : "Đơn hàng",
+    "TableName" : "sale_order",
+    "Action" : 1,
+    "Description" : "Đơn hàng đã được tạo<br/><span class=\"color-grey\">bởi </span>Võ Văn Thiện <span class=\"color-grey\">05/12/2023</span>\r\n",
+    "EntityID" : "702",
+    "ParentEntityID" : "",
+    "EntityInfo" : "DHSG0000254",
+    "FullNameAlias" : "Võ Văn Thiện (NVSG0004)",
+    "OrganizationUnitText" : "Phòng kinh doanh Sài Gòn",
+    "OrganizationUnitID" : 8,
+    "IsSytem" : false,
+    "DeviceType" : 1,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 20 */
+{
+    "_id" : "f536b3dd7e26eb124bfe964e71f35f07",
+    "AuditingLogID" : NUUID("2b2f6ca6-b403-499a-a51f-7f98f4f59960"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2023-10-30T13:45:43.027+07:00"),
+    "LogDate" : ISODate("2023-10-30T00:00:00.000+07:00"),
+    "SubSystemName" : null,
+    "TableName" : "saleorderinventoryout",
+    "Action" : 1,
+    "Description" : " đã được tạo<br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "XKSG00185",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 21 */
+{
+    "_id" : "59d6176afde8761b1c60d2d56962622f",
+    "AuditingLogID" : NUUID("6239350d-ee0e-4345-ab66-bb5685b8e234"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 6,
+    "FullName" : "Phạm Phú Đỗ Chương",
+    "LogTime" : ISODate("2023-09-08T16:59:45.676+07:00"),
+    "LogDate" : ISODate("2023-09-08T00:00:00.000+07:00"),
+    "SubSystemName" : "Khách hàng",
+    "TableName" : "account",
+    "Action" : 2,
+    "Description" : "Chủ sở hữu đã được cập nhật từ <b fieldName=\\\"auditing_fieldName\\\">Đặng Thế Tài (NVDN0003)</b> thành <b fieldName=\\\"auditing_fieldName\\\">Phạm Phú Đỗ Chương (NVDN0001)</b><br/> <span class=\"color-grey\">bởi </span>Phạm Phú Đỗ Chương <span class=\"color-grey\">08/09/2023</span>",
+    "EntityID" : "702",
+    "ParentEntityID" : "",
+    "EntityInfo" : "KHDN - CH Lợi Hùng",
+    "FullNameAlias" : "Phạm Phú Đỗ Chương (NVDN0001)",
+    "OrganizationUnitText" : "Phòng kinh doanh Đà Nẵng",
+    "OrganizationUnitID" : 11,
+    "IsSytem" : false,
+    "DeviceType" : 0,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 22 */
+{
+    "_id" : "79c2b7ffc398fa1cb4e25906e6de74ed",
+    "AuditingLogID" : NUUID("418763a4-9fcf-4a60-8e5f-8461fefd0655"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 6,
+    "FullName" : "Phạm Phú Đỗ Chương",
+    "LogTime" : ISODate("2023-09-08T16:51:50.194+07:00"),
+    "LogDate" : ISODate("2023-09-08T00:00:00.000+07:00"),
+    "SubSystemName" : "Khách hàng",
+    "TableName" : "account",
+    "Action" : 2,
+    "Description" : "Tên khách hàng đã được cập nhật từ <b class='auditing-hidden auditing_AccountName'>KHDN - CH Số 1 Hòa Tiến (Sai)</b> thành <b class='auditing-hidden auditing_AccountName'>KHDN - CH Lợi Hùng</b><br/>\r\nĐiện thoại đã được cập nhật từ <b class='auditing-hidden auditing_OfficeTel'>0906569068</b> thành <b class='auditing-hidden auditing_OfficeTel'>0945578968</b><br/>\r\nQuận/Huyện (Hóa đơn) đã được cập nhật từ <b class='auditing-hidden auditing_BillingDistrictIDText'>Huyện Hòa Vang</b> thành <b class='auditing-hidden auditing_BillingDistrictIDText'>Thành phố Hà Tĩnh</b><br/>\r\nSố nhà, Đường phố (Hóa đơn) đã được cập nhật từ <b class='auditing-hidden auditing_BillingStreet'>Đường ĐT605</b> thành <b class='auditing-hidden auditing_BillingStreet'>Ngõ Ngô Đức Kế</b><br/>\r\nĐịa chỉ (Hóa đơn) đã được cập nhật từ <b class='auditing-hidden auditing_BillingAddress'>Đường ĐT605, Xã Hòa Tiến, Huyện Hòa Vang, Đà Nẵng, Việt Nam</b> thành <b class='auditing-hidden auditing_BillingAddress'>Ngõ Ngô Đức Kế, Phường Nam Hà, Thành phố Hà Tĩnh, Tỉnh Hà Tĩnh, Việt Nam</b><br/>\r\nTỉnh/Thành phố (Hóa đơn) đã được cập nhật từ <b class='auditing-hidden auditing_BillingProvinceIDText'>Đà Nẵng</b> thành <b class='auditing-hidden auditing_BillingProvinceIDText'>Hà Tĩnh</b><br/>\r\nPhường/Xã (Hóa đơn) đã được cập nhật từ <b class='auditing-hidden auditing_BillingWardIDText'>Xã Hòa Tiến</b> thành <b class='auditing-hidden auditing_BillingWardIDText'>Phường Nam Hà</b><br/>\r\nMã vùng (Hóa đơn) đã được cập nhật từ <b class='auditing-hidden auditing_BillingCode'>Giá trị trống</b> thành <b class='auditing-hidden auditing_BillingCode'>4050103</b><br/>\r\nĐịa chỉ (Giao hàng) đã được cập nhật từ <b class='auditing-hidden auditing_ShippingAddress'>Đường ĐT605</b> thành <b class='auditing-hidden auditing_ShippingAddress'>Ngõ Ngô Đức Kế, Phường Nam Hà, Thành phố Hà Tĩnh, Tỉnh Hà Tĩnh, Việt Nam</b><br/>\r\nSố nhà, Đường phố (Giao hàng) đã được cập nhật từ <b class='auditing-hidden auditing_ShippingStreet'>Giá trị trống</b> thành <b class='auditing-hidden auditing_ShippingStreet'>Ngõ Ngô Đức Kế</b><br/>\r\nQuận/Huyện (Giao hàng) đã được cập nhật từ <b class='auditing-hidden auditing_ShippingDistrictIDText'>Giá trị trống</b> thành <b class='auditing-hidden auditing_ShippingDistrictIDText'>Thành phố Hà Tĩnh</b><br/>\r\nTỉnh/Thành phố (Giao hàng) đã được cập nhật từ <b class='auditing-hidden auditing_ShippingProvinceIDText'>Giá trị trống</b> thành <b class='auditing-hidden auditing_ShippingProvinceIDText'>Hà Tĩnh</b><br/>\r\n<span class=\"color-grey\"> bởi</span> Phạm Phú Đỗ Chương <span class=\"color-grey\">08/09/2023</span>\r\n",
+    "EntityID" : "702",
+    "ParentEntityID" : "",
+    "EntityInfo" : "KHDN - CH Lợi Hùng",
+    "FullNameAlias" : "Phạm Phú Đỗ Chương (NVDN0001)",
+    "OrganizationUnitText" : "Phòng kinh doanh Đà Nẵng",
+    "OrganizationUnitID" : 11,
+    "IsSytem" : false,
+    "DeviceType" : 0,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 23 */
+{
+    "_id" : "56c4618861a0b4fe9c8eb1ec64b7c2d0",
+    "AuditingLogID" : NUUID("aa56cc17-992a-427b-a738-95c53b705d85"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 6,
+    "FullName" : "Phạm Phú Đỗ Chương",
+    "LogTime" : ISODate("2023-08-17T11:38:06.684+07:00"),
+    "LogDate" : ISODate("2023-08-17T00:00:00.000+07:00"),
+    "SubSystemName" : "Khách hàng",
+    "TableName" : "account",
+    "Action" : 2,
+    "Description" : "Chủ sở hữu đã được cập nhật từ <b fieldName=\\\"auditing_fieldName\\\">Trần Nhật Linh (NVDN0004)</b> thành <b fieldName=\\\"auditing_fieldName\\\">Đặng Thế Tài (NVDN0003)</b><br/> <span class=\"color-grey\">bởi </span>Phạm Phú Đỗ Chương <span class=\"color-grey\">17/08/2023</span>",
+    "EntityID" : "702",
+    "ParentEntityID" : "",
+    "EntityInfo" : "KHDN - CH Số 1 Hòa Tiến (Sai)",
+    "FullNameAlias" : "Phạm Phú Đỗ Chương (NVDN0001)",
+    "OrganizationUnitText" : "Phòng kinh doanh Đà Nẵng",
+    "OrganizationUnitID" : 11,
+    "IsSytem" : false,
+    "DeviceType" : 0,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 24 */
+{
+    "_id" : "6adc5df220fee1e6d6b69466f4cee306",
+    "AuditingLogID" : NUUID("8b3325dd-7ae3-4c5d-b05b-3d70b00a410d"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 6,
+    "FullName" : "Phạm Phú Đỗ Chương",
+    "LogTime" : ISODate("2023-07-25T09:36:33.697+07:00"),
+    "LogDate" : ISODate("2023-07-25T00:00:00.000+07:00"),
+    "SubSystemName" : "Khách hàng",
+    "TableName" : "account",
+    "Action" : 2,
+    "Description" : "Tên khách hàng đã được cập nhật từ <b class='auditing-hidden auditing_AccountName'>KHDN - CH Số 1 Hòa Tiến</b> thành <b class='auditing-hidden auditing_AccountName'>KHDN - CH Số 1 Hòa Tiến (Sai)</b><br/>\r\n<span class=\"color-grey\"> bởi</span> Phạm Phú Đỗ Chương <span class=\"color-grey\">25/07/2023</span>\r\n",
+    "EntityID" : "702",
+    "ParentEntityID" : "",
+    "EntityInfo" : "KHDN - CH Số 1 Hòa Tiến (Sai)",
+    "FullNameAlias" : "Phạm Phú Đỗ Chương (NVDN0001)",
+    "OrganizationUnitText" : "Phòng kinh doanh Đà Nẵng",
+    "OrganizationUnitID" : 11,
+    "IsSytem" : false,
+    "DeviceType" : 0,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 25 */
+{
+    "_id" : "c28b74c5ab6596e6bd987d5ee9a9f56c",
+    "AuditingLogID" : NUUID("986fe7ba-ce9b-499b-9b75-c155c24a546d"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2023-07-24T17:38:54.557+07:00"),
+    "LogDate" : ISODate("2023-07-24T00:00:00.000+07:00"),
+    "SubSystemName" : "Công nợ khách hàng",
+    "TableName" : "account",
+    "Action" : 2,
+    "Description" : "Công nợ khách hàng đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "KHDN0175",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 0,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 26 */
+{
+    "_id" : "07b9cb5ff4622bbd7451842e803d72ec",
+    "AuditingLogID" : NUUID("37671191-940c-4496-940b-6fc4be4c9d1f"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2023-07-24T17:37:42.085+07:00"),
+    "LogDate" : ISODate("2023-07-24T00:00:00.000+07:00"),
+    "SubSystemName" : "Công nợ khách hàng",
+    "TableName" : "account",
+    "Action" : 2,
+    "Description" : "Công nợ khách hàng đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "KHDN0175",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 0,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 27 */
+{
+    "_id" : "99237b25e1f70f057e8e07d93035e563",
+    "AuditingLogID" : NUUID("9d2f81ca-3f8e-4a0b-98ed-979b6b7faa3e"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2023-07-24T17:31:27.077+07:00"),
+    "LogDate" : ISODate("2023-07-24T00:00:00.000+07:00"),
+    "SubSystemName" : "Công nợ khách hàng",
+    "TableName" : "account",
+    "Action" : 2,
+    "Description" : "Công nợ khách hàng đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "KHDN0175",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 0,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 28 */
+{
+    "_id" : "c7ed3f8664d0cd3fb80d3dd8dcea5bf2",
+    "AuditingLogID" : NUUID("aa477ba7-3198-4800-91a1-99c983ec49ac"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2023-07-24T14:27:57.937+07:00"),
+    "LogDate" : ISODate("2023-07-24T00:00:00.000+07:00"),
+    "SubSystemName" : "Công nợ khách hàng",
+    "TableName" : "account",
+    "Action" : 2,
+    "Description" : "Công nợ khách hàng đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "KHDN0175",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 0,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 29 */
+{
+    "_id" : "6ddd9b993eca8982caaaa060a549741e",
+    "AuditingLogID" : NUUID("5e1fa0be-7410-49ce-a0a1-cf9f999f876d"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2023-07-24T14:27:34.864+07:00"),
+    "LogDate" : ISODate("2023-07-24T00:00:00.000+07:00"),
+    "SubSystemName" : "Công nợ khách hàng",
+    "TableName" : "account",
+    "Action" : 2,
+    "Description" : "Công nợ khách hàng đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "KHDN0175",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 0,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 30 */
+{
+    "_id" : "6f6835445848e8dab78aa072f3ed2a87",
+    "AuditingLogID" : NUUID("35b84649-5c54-4bca-94e5-fbd1385e786f"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2023-07-24T14:07:12.925+07:00"),
+    "LogDate" : ISODate("2023-07-24T00:00:00.000+07:00"),
+    "SubSystemName" : "Công nợ khách hàng",
+    "TableName" : "account",
+    "Action" : 2,
+    "Description" : "Công nợ khách hàng đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "702",
+    "ParentEntityID" : null,
+    "EntityInfo" : "KHDN0175",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 0,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 31 */
+{
+    "_id" : "dbda01a5e51872f5b3c335c9d6d67f66",
+    "AuditingLogID" : NUUID("df33cde8-6b58-4588-9068-229c8d516028"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 6,
+    "FullName" : "Phạm Phú Đỗ Chương",
+    "LogTime" : ISODate("2023-07-24T13:46:19.017+07:00"),
+    "LogDate" : ISODate("2023-07-24T00:00:00.000+07:00"),
+    "SubSystemName" : "Khách hàng",
+    "TableName" : "account",
+    "Action" : 2,
+    "Description" : "Tên khách hàng đã được cập nhật từ <b class='auditing-hidden auditing_AccountName'>KHDN- Cửa Hàng Số 1</b> thành <b class='auditing-hidden auditing_AccountName'>KHDN - CH Số 1 Hòa Tiến</b><br/>\r\n<span class=\"color-grey\"> bởi</span> Phạm Phú Đỗ Chương <span class=\"color-grey\">24/07/2023</span>\r\n",
+    "EntityID" : "702",
+    "ParentEntityID" : "",
+    "EntityInfo" : "KHDN - CH Số 1 Hòa Tiến",
+    "FullNameAlias" : "Phạm Phú Đỗ Chương (NVDN0001)",
+    "OrganizationUnitText" : "Phòng kinh doanh Đà Nẵng",
+    "OrganizationUnitID" : 11,
+    "IsSytem" : false,
+    "DeviceType" : 0,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 32 */
+{
+    "_id" : "de079f5db04d60f500bcafadf43a733f",
+    "AuditingLogID" : NUUID("1b8bfa62-ae70-4ff8-978c-8e2a3acca28a"),
+    "CompanyCode" : "O6JQIA7N",
+    "UserId" : 21,
+    "FullName" : "Trần Nhật Linh",
+    "LogTime" : ISODate("2023-07-24T11:52:05.697+07:00"),
+    "LogDate" : ISODate("2023-07-24T00:00:00.000+07:00"),
+    "SubSystemName" : "Khách hàng",
+    "TableName" : "account",
+    "Action" : 1,
+    "Description" : "Khách hàng đã được tạo<br/><span class=\"color-grey\">bởi </span>Trần Nhật Linh <span class=\"color-grey\">24/07/2023</span>\r\n",
+    "EntityID" : "702",
+    "ParentEntityID" : "",
+    "EntityInfo" : "KHDN- Cửa Hàng Số 1",
+    "FullNameAlias" : "Trần Nhật Linh (NVDN0004)",
+    "OrganizationUnitText" : "Phòng kinh doanh Đà Nẵng",
+    "OrganizationUnitID" : 11,
+    "IsSytem" : false,
+    "DeviceType" : 1,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}

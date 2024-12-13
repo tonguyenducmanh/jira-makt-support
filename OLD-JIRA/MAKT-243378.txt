@@ -1,0 +1,549 @@
+/* 1 */
+{
+    "_id" : "66b95b05f6754baec9015a77bcd377ac",
+    "AuditingLogID" : NUUID("6c11726c-a5a4-4bb3-ac74-aa4defd91fab"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-10-14T13:26:15.334+07:00"),
+    "LogDate" : ISODate("2024-10-14T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 2 */
+{
+    "_id" : "a555feea0a231ee42d8815985bc2dce2",
+    "AuditingLogID" : NUUID("abac366e-3fb7-4be2-a38b-548adc3b226d"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-10-09T12:04:54.443+07:00"),
+    "LogDate" : ISODate("2024-10-09T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 3 */
+{
+    "_id" : "3e5089ef26f8968f8f7c9b5bc96b178a",
+    "AuditingLogID" : NUUID("aac43222-cf99-4095-897a-d2fa75cae4a4"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-10-08T10:32:59.179+07:00"),
+    "LogDate" : ISODate("2024-10-08T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 4 */
+{
+    "_id" : "65dcbb937b94a2f06701b3646adb4a42",
+    "AuditingLogID" : NUUID("5acc12e8-c17d-4616-a108-2dfc371294e7"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-10-01T14:26:12.217+07:00"),
+    "LogDate" : ISODate("2024-10-01T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 5 */
+{
+    "_id" : "707448a713241c3aa752c82cfed9f3a6",
+    "AuditingLogID" : NUUID("2e2cce00-7250-477d-b9a8-c33b21f62db1"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-09-12T15:32:09.953+07:00"),
+    "LogDate" : ISODate("2024-09-12T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 6 */
+{
+    "_id" : "ac79e7db49be459d4da4311d453e2042",
+    "AuditingLogID" : NUUID("e86d61cc-0f82-4aad-b636-632bf6c346c7"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-09-06T08:23:41.440+07:00"),
+    "LogDate" : ISODate("2024-09-06T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 7 */
+{
+    "_id" : "4fb011cab254f478cab99672c03312d3",
+    "AuditingLogID" : NUUID("a4aeb06e-0ddf-4c33-8538-1415a1961a25"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-09-04T14:48:55.739+07:00"),
+    "LogDate" : ISODate("2024-09-04T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 8 */
+{
+    "_id" : "6c0ba669159d9a9447810bf5cfa2c13e",
+    "AuditingLogID" : NUUID("7bf0738b-8940-4b05-a361-a527c2981ff1"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-09-04T14:46:41.680+07:00"),
+    "LogDate" : ISODate("2024-09-04T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 9 */
+{
+    "_id" : "350eba7b16584c35497b38b48d5173d3",
+    "AuditingLogID" : NUUID("e2485b5d-1eeb-435f-9841-e51948225fbf"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-08-31T10:24:17.715+07:00"),
+    "LogDate" : ISODate("2024-08-31T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 10 */
+{
+    "_id" : "89833fbfa664c138cb71ffc0ddb0a649",
+    "AuditingLogID" : NUUID("df8ad7a0-bf76-4c22-8f16-48e481993e1e"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-08-30T20:01:07.476+07:00"),
+    "LogDate" : ISODate("2024-08-30T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 11 */
+{
+    "_id" : "551b30d24ffc56a88f26cdcd3deffa27",
+    "AuditingLogID" : NUUID("6e23ddb1-bce7-48f3-913f-e9ce50c0e200"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-08-30T14:40:53.057+07:00"),
+    "LogDate" : ISODate("2024-08-30T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 12 */
+{
+    "_id" : "49478ae1f6c3da7b3b80c52884ec38e8",
+    "AuditingLogID" : NUUID("98c839c9-af6c-4cc5-bd8b-b498bc37a274"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-08-30T14:07:40.182+07:00"),
+    "LogDate" : ISODate("2024-08-30T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 13 */
+{
+    "_id" : "bd0d1a6899a36c5509b5ad875cbb9027",
+    "AuditingLogID" : NUUID("0d2a8a51-625e-4645-8691-108ea74c7a20"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-08-30T11:39:45.301+07:00"),
+    "LogDate" : ISODate("2024-08-30T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 14 */
+{
+    "_id" : "45cb1d94536508f24b29e31f12093d9c",
+    "AuditingLogID" : NUUID("e6ffd215-7b43-412c-9603-07eb399defe8"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-08-29T11:30:22.135+07:00"),
+    "LogDate" : ISODate("2024-08-29T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 15 */
+{
+    "_id" : "f67da513b1844f5ff61b9899a07481c2",
+    "AuditingLogID" : NUUID("4c6ff78b-99c8-47d8-a7ae-f72618fe9504"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-08-27T14:15:01.631+07:00"),
+    "LogDate" : ISODate("2024-08-27T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 16 */
+{
+    "_id" : "8e0decc0cafab73cb15cba40baf05f9a",
+    "AuditingLogID" : NUUID("fb5dd88a-fb70-4c5f-a973-89ba02d53b64"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-08-26T00:16:00.403+07:00"),
+    "LogDate" : ISODate("2024-08-26T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 17 */
+{
+    "_id" : "0f8e621678ecd38fd3c5e0db286ee87d",
+    "AuditingLogID" : NUUID("fcdb0ce4-dc96-4ea4-921e-e2a9d4ae1ae8"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-08-24T21:52:51.600+07:00"),
+    "LogDate" : ISODate("2024-08-24T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 18 */
+{
+    "_id" : "b3a57e653ed085af166340267086e6ef",
+    "AuditingLogID" : NUUID("e16d7c3d-470e-4daf-a58d-4b876eff889e"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-08-24T16:48:01.148+07:00"),
+    "LogDate" : ISODate("2024-08-24T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 19 */
+{
+    "_id" : "0a094b793f27d15e4ef9095fe184f7d4",
+    "AuditingLogID" : NUUID("a0be17ea-de74-4765-b627-30e870e7c859"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-08-24T11:45:28.150+07:00"),
+    "LogDate" : ISODate("2024-08-24T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 20 */
+{
+    "_id" : "3fcf40b10f5e84933eaf1b44914f5681",
+    "AuditingLogID" : NUUID("ce5877dc-213e-4583-8aa9-1ae6113c884b"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-08-24T11:41:41.579+07:00"),
+    "LogDate" : ISODate("2024-08-24T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 21 */
+{
+    "_id" : "50f197f3855bebb6cb068c0e1d00a4ed",
+    "AuditingLogID" : NUUID("a5345119-eaac-4e07-b8db-56ad130488ce"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-08-24T11:40:35.274+07:00"),
+    "LogDate" : ISODate("2024-08-24T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
+
+/* 22 */
+{
+    "_id" : "49f992ad749b74853aa91bcb36e184f7",
+    "AuditingLogID" : NUUID("cc117991-a304-4bdc-ba45-aa66d8adf1f9"),
+    "CompanyCode" : "V85CY85L",
+    "UserId" : 0,
+    "FullName" : "SME",
+    "LogTime" : ISODate("2024-08-23T09:58:47.038+07:00"),
+    "LogDate" : ISODate("2024-08-23T00:00:00.000+07:00"),
+    "SubSystemName" : "Hàng hoá",
+    "TableName" : "product",
+    "Action" : 2,
+    "Description" : "Hàng hoá đã thay đổi <br/><span class=\"color-grey\">bởi </span>luồng đồng bộ với AMIS Kế toán",
+    "EntityID" : "17537",
+    "ParentEntityID" : null,
+    "EntityInfo" : "ZETCB00247",
+    "FullNameAlias" : null,
+    "OrganizationUnitText" : null,
+    "OrganizationUnitID" : 0,
+    "IsSytem" : false,
+    "DeviceType" : 8,
+    "FirstDevice" : null,
+    "LayoutCode" : null
+}
