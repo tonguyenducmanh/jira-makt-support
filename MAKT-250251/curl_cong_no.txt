@@ -1,0 +1,20 @@
+curl --location 'https://smecloudmnt.misaonline.vpnlocal/api/dbmnt/Query' \
+--header 'Accept: application/json, text/plain, */*' \
+--header 'Accept-Language: vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7,fr-FR;q=0.6,fr;q=0.5' \
+--header 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNmRmYmI1YTQtMDgxMy00NjZjLTlhN2ItNGVlM2Y1OGI0NGY4IiwidXNlcl9uYW1lIjoidGRtYW5oMUBzb2Z0d2FyZS5taXNhLmNvbS52biIsInBob25lX251bWJlciI6IjA5ODEwNzEzMjEiLCJlbWFpbCI6InRkbWFuaDFAc29mdHdhcmUubWlzYS5jb20udm4iLCJsYXN0X25hbWUiOiJN4bqhbmgiLCJmaXJzdF9uYW1lIjoiVMO0IE5ndXnhu4VuIMSQ4bupYyIsImxpc3RfZnVuY3Rpb24iOiJbXCI1ZjQzZGNkOC1mNWJlLTRiN2EtODBhZi04Y2NlNzhiYjU2MWNcIixcIjdhNjkxN2RkLTFmYjgtNDgwOS05MGY3LTA4MzgyY2VkYmY4MVwiLFwiZTE1MTE4ODYtNDRlNS00ZmVjLWIzYWEtODMxNGJjZmZkZTQzXCIsXCJiYzg3ZjczYy04OTVkLTQ2NGUtOGRlMi0yNWZlZWIyYjVjMmRcIixcImZkYjgwYTQ3LTEwMTktNDMwNC1iZDI3LWZiYjljN2ZmZjE1OVwiLFwiNDNmMjJjMTAtMjFiNi00OGRhLThjZGUtYzhmMjJmOTE2YTliXCIsXCI2YmJjNjE2ZS04Y2IxLTRiZTQtOTQ1YS0zNzI2MTk2ZjY4MmRcIixcIjc2NDdmYWUwLWFiMGItNGQzMS1hODg3LTk2ZDc1ZTg4MjM3MVwiXSIsIm5iZiI6MTczNTE5ODM1NiwiZXhwIjoxNzM1MjEyNzU2LCJpYXQiOjE3MzUxOTgzNTYsImlzcyI6Ik1JU0EuU01FLkRCTWFuYWdlbWVudCJ9.j17FyKjeq7EmTz1GAE2EhIzkxFXy5hJZeja9Ti1-V3k' \
+--header 'Connection: keep-alive' \
+--header 'Content-Type: application/json' \
+--header 'DNT: 1' \
+--header 'Origin: https://smecloudmnt.misaonline.vpnlocal' \
+--header 'Referer: https://smecloudmnt.misaonline.vpnlocal/queryv2' \
+--header 'Sec-Fetch-Dest: empty' \
+--header 'Sec-Fetch-Mode: cors' \
+--header 'Sec-Fetch-Site: same-origin' \
+--header 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36' \
+--header 'sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"' \
+--header 'sec-ch-ua-mobile: ?0' \
+--header 'sec-ch-ua-platform: "Linux"' \
+--data-raw '{
+    "ConnectionString": "User ID=smecloud;Password=smecloud12345678@Abc;Host=172.16.195.23;Port=5432;Database=smecloud_sync_g1;Pooling=true;",
+    "Sql": "select created, start_time, end_time, action_type, type, tx, queue_name, client_id from sme.crm_sync_queue_archive where database_id in ('\''734fee34-deb4-454d-aedc-14b0f42bef4b'\'' , '\''25503dbf-ef60-4d6b-a6af-d8c520fb9d4a'\'') and \n(start_time between '\''2024-12-18 11:00:00'\'' and '\''2024-12-18 15:35:00'\'') and queue_name in ('\''SMECLOUD_G1_SYNC_10'\'', '\''SMECLOUD_G1_SYNC_2'\'') order by created desc limit 10;\n"
+}'

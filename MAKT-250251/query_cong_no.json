@@ -1,0 +1,112 @@
+[
+  {
+    "created": "2024-12-18T10:57:10",
+    "start_time": "2024-12-18T15:06:24",
+    "end_time": "2024-12-18T15:06:24",
+    "action_type": 502,
+    "type": "inventory_item",
+    "tx": "303caa58-d43f-4843-a85c-ba0697b04b4e",
+    "queue_id": "303caa58-d43f-4843-a85c-ba0697b04b4e",
+    "queue_name": "SMECLOUD_G1_SYNC_10",
+    "client_id": "actappg1-syncworker-7f4f4fddb4-tdttw-1"
+  },
+  {
+    "created": "2024-12-18T10:57:06",
+    "start_time": "2024-12-18T15:06:24",
+    "end_time": "2024-12-18T15:06:24",
+    "action_type": 502,
+    "type": "inventory_item",
+    "tx": "778771f1-5ee5-42c3-ab04-5cea5b0151b3",
+    "queue_id": "778771f1-5ee5-42c3-ab04-5cea5b0151b3",
+    "queue_name": "SMECLOUD_G1_SYNC_10",
+    "client_id": "actappg1-syncworker-7f4f4fddb4-tdttw-1"
+  },
+  {
+    "created": "2024-12-18T09:27:07",
+    "start_time": "2024-12-18T14:14:28",
+    "end_time": "2024-12-18T14:14:28",
+    "action_type": -1,
+    "type": "inventory_item_category",
+    "tx": "7a62072b-1c97-4a9f-89e5-9797e4b644c9",
+    "queue_id": "7a62072b-1c97-4a9f-89e5-9797e4b644c9",
+    "queue_name": "SMECLOUD_G1_SYNC_10",
+    "client_id": "actappg1-syncworker-7f4f4fddb4-tdttw-1"
+  },
+  {
+    "created": "2024-12-18T09:26:41",
+    "start_time": "2024-12-18T15:26:07",
+    "end_time": "2024-12-18T17:50:47",
+    "action_type": -1,
+    "type": "account_object",
+    "tx": "4f4bac64-28f5-4276-8fd4-042780604ab4",
+    "queue_id": "4f4bac64-28f5-4276-8fd4-042780604ab4",
+    "queue_name": "SMECLOUD_G1_SYNC_10",
+    "client_id": "actappg1-syncworker-7f4f4fddb4-tdttw-1"
+  },
+  {
+    "created": "2024-12-18T09:26:39",
+    "start_time": "2024-12-18T15:17:04",
+    "end_time": "2024-12-18T17:50:47",
+    "action_type": -1,
+    "type": "account_object",
+    "tx": "4f4bac64-28f5-4276-8fd4-042780604ab4",
+    "queue_id": "4f4bac64-28f5-4276-8fd4-042780604ab4",
+    "queue_name": "SMECLOUD_G1_SYNC_10",
+    "client_id": "actappg1-syncworker-7f4f4fddb4-tdttw-1"
+  },
+  {
+    "created": "2024-12-18T09:26:38",
+    "start_time": "2024-12-18T15:06:24",
+    "end_time": "2024-12-18T17:50:47",
+    "action_type": -1,
+    "type": "account_object",
+    "tx": "4f4bac64-28f5-4276-8fd4-042780604ab4",
+    "queue_id": "4f4bac64-28f5-4276-8fd4-042780604ab4",
+    "queue_name": "SMECLOUD_G1_SYNC_10",
+    "client_id": "actappg1-syncworker-7f4f4fddb4-tdttw-1"
+  },
+  {
+    "created": "2024-12-18T09:26:36",
+    "start_time": "2024-12-18T14:54:59",
+    "end_time": "2024-12-18T17:50:47",
+    "action_type": -1,
+    "type": "account_object",
+    "tx": "4f4bac64-28f5-4276-8fd4-042780604ab4",
+    "queue_id": "4f4bac64-28f5-4276-8fd4-042780604ab4",
+    "queue_name": "SMECLOUD_G1_SYNC_10",
+    "client_id": "actappg1-syncworker-7f4f4fddb4-tdttw-1"
+  },
+  {
+    "created": "2024-12-18T09:26:34",
+    "start_time": "2024-12-18T14:44:00",
+    "end_time": "2024-12-18T17:50:47",
+    "action_type": -1,
+    "type": "account_object",
+    "tx": "4f4bac64-28f5-4276-8fd4-042780604ab4",
+    "queue_id": "4f4bac64-28f5-4276-8fd4-042780604ab4",
+    "queue_name": "SMECLOUD_G1_SYNC_10",
+    "client_id": "actappg1-syncworker-7f4f4fddb4-tdttw-1"
+  },
+  {
+    "created": "2024-12-18T09:26:32",
+    "start_time": "2024-12-18T14:35:41",
+    "end_time": "2024-12-18T17:50:47",
+    "action_type": -1,
+    "type": "account_object",
+    "tx": "4f4bac64-28f5-4276-8fd4-042780604ab4",
+    "queue_id": "4f4bac64-28f5-4276-8fd4-042780604ab4",
+    "queue_name": "SMECLOUD_G1_SYNC_10",
+    "client_id": "actappg1-syncworker-7f4f4fddb4-tdttw-1"
+  },
+  {
+    "created": "2024-12-18T09:26:30",
+    "start_time": "2024-12-18T14:25:14",
+    "end_time": "2024-12-18T17:50:47",
+    "action_type": -1,
+    "type": "account_object",
+    "tx": "4f4bac64-28f5-4276-8fd4-042780604ab4",
+    "queue_id": "4f4bac64-28f5-4276-8fd4-042780604ab4",
+    "queue_name": "SMECLOUD_G1_SYNC_10",
+    "client_id": "actappg1-syncworker-7f4f4fddb4-tdttw-1"
+  }
+]
